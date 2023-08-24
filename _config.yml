@@ -1,16 +1,13 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              dissident discourse
+email:              
+description:        Science and Culture Through the Lens of the Disillusioned; Seeking Truth Amidst the Chaos
+author:             
+baseurl:            ""
+url:                "dissident-discourse.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
 instagram_username:  
-linkedin_username:
+
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
